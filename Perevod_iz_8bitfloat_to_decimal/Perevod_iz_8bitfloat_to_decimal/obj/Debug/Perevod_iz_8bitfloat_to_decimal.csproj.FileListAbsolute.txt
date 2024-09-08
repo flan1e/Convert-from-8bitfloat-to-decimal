@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Perevod_iz_8bitfloat_to_decimal\Perevod_iz_8bitfloat_to_decimal\bin\Debug\Perevod_iz_8bitfloat_to_decimal.exe.config
+C:\Users\user\source\repos\Perevod_iz_8bitfloat_to_decimal\Perevod_iz_8bitfloat_to_decimal\bin\Debug\Perevod_iz_8bitfloat_to_decimal.exe
+C:\Users\user\source\repos\Perevod_iz_8bitfloat_to_decimal\Perevod_iz_8bitfloat_to_decimal\bin\Debug\Perevod_iz_8bitfloat_to_decimal.pdb
+C:\Users\user\source\repos\Perevod_iz_8bitfloat_to_decimal\Perevod_iz_8bitfloat_to_decimal\obj\Debug\Perevod_iz_8bitfloat_to_decimal.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Perevod_iz_8bitfloat_to_decimal\Perevod_iz_8bitfloat_to_decimal\obj\Debug\Perevod_iz_8bitfloat_to_decimal.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Perevod_iz_8bitfloat_to_decimal\Perevod_iz_8bitfloat_to_decimal\obj\Debug\Perevod_iz_8bitfloat_to_decimal.exe
+C:\Users\user\source\repos\Perevod_iz_8bitfloat_to_decimal\Perevod_iz_8bitfloat_to_decimal\obj\Debug\Perevod_iz_8bitfloat_to_decimal.pdb
